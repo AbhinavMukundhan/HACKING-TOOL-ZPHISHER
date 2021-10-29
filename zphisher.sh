@@ -77,8 +77,8 @@ ${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|  
 ${ORANGE}      | |                                
 ${ORANGE}      |_|                ${RED}Version : 2.2 
 
-${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
-EOF
+${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by AbhinavMukundh ${WHITE}
+EO
 } 
 
 ## Small Banner
