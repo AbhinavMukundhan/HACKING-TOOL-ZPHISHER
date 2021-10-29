@@ -1,13 +1,9 @@
-
 #!/bin/bash 
 
 ##   Zphisher : Automated Phishing Tool
 ##   Author : Abhinav Mukundh 
 ##   Version : 2.2
 ##   Github : https://github.com/AbhinavMukundhan
-
-
-
 
 ## ANSI colors (FG & BG)
 RED="$(printf '\033[31m')"  GREEN="$(printf '\033[32m')"  ORANGE="$(printf '\033[33m')"  BLUE="$(printf '\033[34m')"
