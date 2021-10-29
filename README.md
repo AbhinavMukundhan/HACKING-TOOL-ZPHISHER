@@ -73,7 +73,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ```
 
-$ git clone git://github.com/htr-tech/zphisher.git
+git clone https://github.com/AbhinavMukundhan/HACKING-TOOL-ZPHISHER.git
 
 ```
 
@@ -93,9 +93,9 @@ $ bash zphisher.sh
 
 ```
 
-$ docker pull htrtech/zphisher
+$ docker pull Abhinav/zphisher
 
-$ docker run --rm -it htrtech/zphisher
+$ docker run --rm -it Abhinav/zphisher
 
 ```
 
